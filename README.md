@@ -1,4 +1,10 @@
-# country-region-data 
+# country-region-data (Using for Shipping selection)
+
+# Modifications from original
+- I am adding regions that do not necessarily have a 3166-2 code.  Example:
+### Hong Kong
+Has no regions for 3166-2 purpose but for shipping purposes uses `Honk Kong Island`, `Kowloon`, `New Territories`.
+Forking off of this project to easily keep updates clean to 3166-2 standards as much as possible
 
 [![Build Status](https://travis-ci.com/country-regions/country-region-data.svg?branch=master)](https://travis-ci.org/country-regions/country-region-data)
 
